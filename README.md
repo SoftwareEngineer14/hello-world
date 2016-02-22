@@ -1,2 +1,2 @@
 # hello-world
-Staring repository
+Starting repository
